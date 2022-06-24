@@ -1,16 +1,15 @@
-# emoji_ui
+# Food_UI
 
-A new Flutter project.
+This app was made to learn how powerfull and amazing is develop with Flutter
+<br>
 
-## Getting Started
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175566027-8126bf4c-477f-45bc-b219-9f364671cf15.png" width="350px" height ="650" />
+</div>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175566031-9d64351c-eb10-49b9-a07b-ccbefe9c6a34.png" width="350px" height ="650" />
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
