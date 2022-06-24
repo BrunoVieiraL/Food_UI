@@ -1,6 +1,6 @@
 # Food_UI
 
-This app was made to learn how powerfull and amazing is develop with Flutter
+This app was made to learn how powerful and amazing is develop with Flutter and learned some new widgets
 <br>
 
 <div align="center">
